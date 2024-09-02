@@ -36,8 +36,8 @@ public:
         {3000, "MMM"}
       };
       stack<string> s;
-      int dec = 1;
-      
+      int dec = 0;
+      dec = 1;
       while (num != 0){
         int digit = num % 10;
         int curNum = digit * dec;
@@ -46,6 +46,8 @@ public:
         num /= 10;
         dec *= 10;
       }
+      if (s.size() == 0)
+        return "";
       while (s.size() != 0){
         sol.append(s.top());
         s.pop();
