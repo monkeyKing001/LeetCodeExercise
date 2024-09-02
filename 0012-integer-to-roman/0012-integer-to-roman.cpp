@@ -46,8 +46,6 @@ public:
         num /= 10;
         dec *= 10;
       }
-      if (s.size() == 0)
-        return "";
       while (s.size() != 0){
         sol.append(s.top());
         s.pop();
