@@ -36,8 +36,7 @@ public:
         {3000, "MMM"}
       };
       stack<string> s;
-      int dec = 0;
-      dec = 1;
+      int dec = 1;
       while (num != 0){
         int digit = num % 10;
         int curNum = digit * dec;
