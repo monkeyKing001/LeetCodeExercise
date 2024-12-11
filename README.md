@@ -34,6 +34,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,4 +43,16 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
+## Array
+|  |
+| ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Binary Search
+|  |
+| ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Sorting
+|  |
+| ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 <!---LeetCode Topics End-->
