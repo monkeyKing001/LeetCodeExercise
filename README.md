@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
@@ -76,6 +77,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
