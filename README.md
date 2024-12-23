@@ -46,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
@@ -66,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sorting
