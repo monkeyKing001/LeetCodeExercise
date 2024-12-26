@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
+| [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
@@ -159,4 +160,12 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
