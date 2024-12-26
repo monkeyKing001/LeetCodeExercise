@@ -11,27 +11,22 @@
  */
 class Solution {
 public:
-  vector<unordered_set<int>> dp;
+  vector<int> dp;
+  vector<bool> visit;
   void rec(TreeNode* node, int h){
     if (!node)
       return;
-    dp[h].insert(node -> val);
+    if (dp.size() == h)
+      dp.push_back(node -> val);
+    dp[h] = max(dp[h], node -> val);
     rec(node -> left, h + 1);
     rec(node -> right, h + 1);
   }
 
   vector<int> largestValues(TreeNode* root) {
-    dp.resize(1000);
-    rec(root, 0);
     vector<int> ans;
-    for (int i = 0; i < dp.size(); i++){
-      if (!dp[i].size())
-        break;
-      int max_val = INT_MIN;
-      for (auto v : dp[i])
-        max_val = max(max_val, v);
-      ans.push_back(max_val);
-    }
+    rec(root, 0);
+    for (int i = 0; i < dp.size(); i++) ans.push_back(dp[i]);
     return (ans);
   }
 };
