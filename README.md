@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0038-count-and-say) |
+| [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
