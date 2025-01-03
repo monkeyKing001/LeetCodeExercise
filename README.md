@@ -68,6 +68,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
+| [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -198,5 +199,6 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
