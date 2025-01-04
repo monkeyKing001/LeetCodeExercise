@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
@@ -27,6 +28,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
