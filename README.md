@@ -30,6 +30,7 @@
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 | [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -204,5 +206,6 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
