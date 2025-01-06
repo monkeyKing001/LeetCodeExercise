@@ -1,29 +1,27 @@
 class Solution {
 public:
-  vector<int> minOperations(string boxes) {
-    int n = boxes.size();
-    vector<int> ans(n, 0);
-    vector<int> left(n, 0);
-    vector<int> right(n, 0);
-    vector<int> left_count(n, 0);
-    vector<int> right_count(n, 0);
-    for (int i = n - 1; i >= 0; i--){
-      if (boxes[i] == '1')
-        right_count[i]++;
-      if (i < n - 1)
-        right_count[i] += right_count[i + 1];
-      if (i < n - 1 && right_count[i + 1]) right[i] = right[i + 1] + right_count[i + 1];
+    static vector<int> minOperations(string& boxes) {
+      const int n = boxes.size();
+      vector<int> ans(n, 0);
+      vector<int> P;
+
+      //positions of '1's
+      for (int i = 0; i < n; i++) {
+        if (boxes[i]=='1') {
+          P.push_back(i);
+          ans[0]+=i; //Initial cost for position 0
+        }
+      }
+      int pz=P.size(), L=0, R=pz;
+      // Calculate answer for the remaining indices
+      for (int i=1, j= 0; i<n; i++) {
+        if (j<pz && i>P[j]) {
+          L++;
+          R--;
+          j++;
+        }
+        ans[i]=ans[i-1]+L-R;
+      }
+      return ans;
     }
-    for (int i = 0; i < n; i++){
-      if (boxes[i] == '1')
-        left_count[i]++;
-      if (i > 0)
-        left_count[i] += left_count[i - 1];
-      if (i > 0 && left_count[i - 1]) left[i] = left[i - 1] + left_count[i - 1];
-    }
-    for (int i = 0; i < n; i++){
-      ans[i] = left[i] + right[i];
-    }
-    return (ans);
-  }
 };
