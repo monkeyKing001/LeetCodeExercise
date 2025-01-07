@@ -25,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0038-count-and-say) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
@@ -70,6 +71,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
+| [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -211,4 +213,8 @@
 | [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
