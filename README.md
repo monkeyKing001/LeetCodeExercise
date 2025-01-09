@@ -36,6 +36,7 @@
 | [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -221,4 +224,13 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
