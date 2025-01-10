@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
+| [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
@@ -25,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0038-count-and-say) |
+| [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -75,6 +77,7 @@
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
