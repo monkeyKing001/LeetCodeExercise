@@ -4,18 +4,16 @@ public:
     vector<string> ans;
     ans.reserve(words1.size());
     vector<int> w2_count(26, 0);
-    for (auto w2 : words2){
+    for (auto &w2 : words2){
       vector<int> temp(26, 0);
       for (auto w2c : w2){
         temp[w2c - 'a']++;
         w2_count[w2c - 'a'] = max(w2_count[w2c - 'a'], temp[w2c - 'a']);
       }
     }
-    for (auto w1 : words1){
+    for (auto &w1 : words1){
       vector<int> ww1_count(26, 0);
       for (auto w1c : w1){
-        if (!w2_count[w1c - 'a'])
-          continue;
         ww1_count[w1c - 'a']++;
       }
       bool flag = true;
