@@ -12,9 +12,7 @@ public:
     for (auto info : count){
       if (info.COUNT % 2 == 1)
         k--;
-      if (k < 0)
-        return false;
     }
-    return (true);
+    return (k >= 0);
   }
 };
