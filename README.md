@@ -13,6 +13,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -76,6 +77,7 @@
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
