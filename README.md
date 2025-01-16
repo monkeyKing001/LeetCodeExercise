@@ -76,6 +76,7 @@
 | ------- |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2509-minimize-xor) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Array
@@ -171,6 +172,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
