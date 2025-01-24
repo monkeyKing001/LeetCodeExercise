@@ -102,6 +102,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2465-shifting-letters-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -141,6 +142,7 @@
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
+| [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
@@ -279,6 +281,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2145-grid-game) |
+| [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
@@ -287,4 +290,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
+| [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
