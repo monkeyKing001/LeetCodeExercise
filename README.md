@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -137,6 +138,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -280,4 +283,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
