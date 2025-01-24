@@ -1,37 +1,32 @@
 class Solution {
 public:
-  unordered_set<int> term;
-  set<int> safe;
-  vector<bool> visited;
-  void rec(int node, vector<vector<int>> &g){
-    visited[node] = true;
-    bool safe_node = true;
-    for (auto next : g[node]){
-      if (!visited[next])
-        rec(next, g);
-      if (!safe.contains(next)){
-        safe_node = false;
-        break;
-      }
-    }
-    if (safe_node)
-      safe.insert(node);
-  }
-
   vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
     int n = graph.size();
-    visited.resize(n , false);
-    for (int i = 0 ; i < n; i++){
-      if (!graph[i].size()){
-        safe.insert(i);
-        visited[i] = true;
+    vector<vector<int>> rg(n);
+    vector<int> indg(n, 0);
+    for (int i = 0; i < n; i++){
+      int u = i;
+      for (auto v : graph[u]){
+        rg[v].push_back(u);
+        indg[u]++;
       }
     }
-    for (int i = 0; i < n; i++){
-      if (!visited[i])
-        rec(i, graph);
+    vector<int> ans;
+    ans.reserve(n);
+    queue<int> q;
+    for (int i = 0; i < n; i++)
+      if (!indg[i]) q.push(i);
+    while (q.size()){
+      int node = q.front();
+      q.pop();
+      ans.push_back(node);
+      for (auto next : rg[node]){
+        indg[next]--;
+        if (!indg[next])
+          q.push(next);
+      }
     }
-    vector<int> ans(safe.begin(), safe.end());
-    return (ans);
+    sort(ans.begin(), ans.end());
+    return(ans);
   }
 };
