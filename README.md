@@ -134,6 +134,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -214,6 +216,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
