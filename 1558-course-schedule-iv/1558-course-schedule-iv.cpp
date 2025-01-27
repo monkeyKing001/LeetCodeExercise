@@ -8,7 +8,7 @@ public:
     vector<vector<int>> g(n);
     vector<unordered_set<int>> dep(n);
     vector<int> indegree(n, 0);
-    for (auto p : prerequisites){
+    for (auto &p : prerequisites){
       int u = p[0];
       int v = p[1];
       g[u].push_back(v);
