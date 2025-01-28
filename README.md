@@ -108,6 +108,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
@@ -137,6 +138,7 @@
 | [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -220,6 +222,7 @@
 | [1876-map-of-highest-peak](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -287,6 +290,7 @@
 | [1876-map-of-highest-peak](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -300,5 +304,6 @@
 ## Union Find
 |  |
 | ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
