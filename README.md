@@ -143,6 +143,7 @@
 | [0854-making-a-large-island](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -155,6 +156,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -312,6 +314,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
