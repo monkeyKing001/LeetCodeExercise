@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1502-construct-k-palindrome-strings) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -94,6 +95,7 @@
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -208,6 +210,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
