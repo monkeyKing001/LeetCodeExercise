@@ -341,4 +341,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2434-design-a-number-container-system) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
