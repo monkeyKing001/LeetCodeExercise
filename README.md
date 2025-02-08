@@ -13,6 +13,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2434-design-a-number-container-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2700-substring-xor-queries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -177,6 +178,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
@@ -196,6 +198,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -334,4 +337,8 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
