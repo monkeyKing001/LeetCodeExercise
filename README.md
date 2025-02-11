@@ -350,6 +350,7 @@
 | [1153-product-sales-analysis-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1908-recyclable-and-low-fat-products) |
