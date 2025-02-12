@@ -365,6 +365,7 @@
 | [1415-students-and-examinations](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
