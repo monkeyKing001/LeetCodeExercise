@@ -384,6 +384,7 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1942-primary-department-for-each-employee) |
 | [2041-the-latest-login-in-2020](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2041-the-latest-login-in-2020) |
+| [2087-confirmation-rate](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
