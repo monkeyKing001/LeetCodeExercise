@@ -136,6 +136,7 @@
 | [3429-special-array-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3748-sort-matrix-by-diagonals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [2145-grid-game](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2472-build-a-matrix-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3748-sort-matrix-by-diagonals](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
 | ------- |
