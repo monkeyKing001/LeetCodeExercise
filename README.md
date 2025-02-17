@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1502-construct-k-palindrome-strings) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
@@ -37,6 +38,7 @@
 | [0038-count-and-say](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0038-count-and-say) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1160-letter-tile-possibilities](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -232,6 +234,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -293,6 +296,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1160-letter-tile-possibilities) |
 ## Two Pointers
 |  |
 | ------- |
