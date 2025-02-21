@@ -110,6 +110,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
@@ -309,6 +310,7 @@
 | [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
