@@ -11,24 +11,22 @@
  */
 class FindElements {
 public:
-    vector<int> arr;
+    unordered_set<int> elemnts;
 
     void fill_tree(int idx, TreeNode* node){
-      if (idx >= arr.size())
+      if (idx >= 1000001)
         return ;
-      arr[idx] = idx;
-      //cout << "idx : " << idx << "\n";
+      elemnts.insert(idx);
       if (node -> left) fill_tree((idx * 2) + 1, node -> left);
       if (node -> right) fill_tree((idx * 2) + 2, node -> right);
     }
     
     FindElements(TreeNode* root) {
-      arr.resize(1e6 + 1, -1);
       fill_tree(0, root);
     }
 
     bool find(int target) {
-      return (arr[target] != -1);
+      return (elemnts.contains(target));
     }
 };
 
