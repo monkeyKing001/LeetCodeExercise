@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1477-product-of-the-last-k-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1477-product-of-the-last-k-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
