@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0014-longest-common-prefix) |
@@ -301,6 +302,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
@@ -317,6 +319,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0005-longest-palindromic-substring) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1133-last-substring-in-lexicographical-order) |
 ## Prefix Sum
 |  |
