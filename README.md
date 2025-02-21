@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0056-merge-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -157,6 +158,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0056-merge-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1253-sort-the-matrix-diagonally](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1253-sort-the-matrix-diagonally) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
