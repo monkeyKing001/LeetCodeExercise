@@ -30,6 +30,7 @@
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1477-product-of-the-last-k-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -311,6 +312,7 @@
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
@@ -440,6 +442,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
