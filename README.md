@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1364-tuple-with-same-product) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -114,6 +116,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1063-best-sightseeing-pair) |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -293,6 +297,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
