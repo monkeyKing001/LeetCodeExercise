@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1236-n-th-tribonacci-number) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0070-climbing-stairs) |
 | [0312-burst-balloons](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0494-target-sum) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
