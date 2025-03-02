@@ -28,10 +28,11 @@ public:
     //vector<vector<int>> dp = grid;
     for (int i = m - 1; i >= 0; i--){
       for (int j = n - 1; j >= 0; j--){
+        int cur_cost = dp[i][j];
         if (i > 0)
-          dp[i - 1][j] = min(dp[i - 1][j], dp[i][j] + grid[i - 1][j]);
+          dp[i - 1][j] = min(dp[i - 1][j], cur_cost + grid[i - 1][j]);
         if (j > 0)
-          dp[i][j - 1] = min(dp[i][j - 1], dp[i][j] + grid[i][j - 1]);
+          dp[i][j - 1] = min(dp[i][j - 1], cur_cost + grid[i][j - 1]);
       }
     }
     //int ans = rec(grid, dp, {0, 0});
