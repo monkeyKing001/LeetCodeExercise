@@ -422,6 +422,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/monkeyKing001/LeetCodeExercise/tree/master/0196-delete-duplicate-emails) |
